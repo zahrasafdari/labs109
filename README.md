@@ -1,2 +1,3 @@
+- Solved these problems in my Programming Challenges course.
 - The course book containing all the problems is titled *Challenging Programming in Python: A Problem-Solving Perspective*.
 - This book is written by two of my esteemed professors, and I had the opportunity to achieve a perfect score of 20 out of 20 in this course.
